@@ -13,8 +13,7 @@ Not a new paragraph.
 List:
 - one
 - two
-- three
-- four 
+- three 
   contue
 
 New para.
